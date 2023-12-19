@@ -3,7 +3,7 @@
 More about this [here](https://solutions.corda.net/designs/business-networks-membership-service.html)
 
 ## Instructions for setting up
-1. `git clone https://github.com/vardan10/corda-membership-service.git`
+1. `git clone https://github.com/ianstaley/corda-membership-service.git`
 2. `cd corda-membership-service`
 3. `./gradlew deployNodes` - building may take upto a minute (it's much quicker if you already have the Corda binaries).
 4. `bash createMembershipConfig.sh`
